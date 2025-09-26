@@ -24,7 +24,7 @@ The project focuses on delivering a **clean, modern, and user-friendly interface
 
 ### 1. Clone the Repository  
 ```bash
-git clone https://github.com/your-username/ChatMCA.git
+git clone https://github.com/maulichawan/ChatMCA.git
 cd ChatMCA
 ````
 
